@@ -17,7 +17,8 @@ This repository contains:
 │   └── main.pdf
 ├── src/
 │   ├── game.py          # game implementation
-│   └── trajectory.py    # counting algorithm
+│   ├── trajectory.py    # counting algorithm
+│   └── outputs            # various visualization outputs
 └── README.md
 ```
 
